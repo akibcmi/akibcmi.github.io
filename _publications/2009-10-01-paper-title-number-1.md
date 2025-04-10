@@ -1,7 +1,7 @@
 ---
 title: "MO-Transformer: Extract High-Level Relationship Between Words for Neural Machine Translation"
 collection: IEEE/ACM Transactions on Audio, Speech, and Language Processing
-category: accepted
+category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-11-27
