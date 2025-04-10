@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
+Biography
 ======
-I am now a Research Assistant Professor at Shanghai Jiao Tong University. I got my PhD degree from Department of Computer Science and Technology, Shanghai Jiao Tong University, advised by [Prof.Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/). My research interests include machine translation, Chinese word segmentation, language representation learning, and related NLP tasks.
+Sufeng Duan is now a Research Assistant Professor at Shanghai Jiao Tong University. He obtained his PhD degree from Department of Computer Science and Technology, Shanghai Jiao Tong University, advised by [Prof.Hai Zhao](https://bcmi.sjtu.edu.cn/~zhaohai/). His research interests include machine translation, Chinese word segmentation, language representation learning, and related NLP tasks.
 
 Selected Publication
 ======
