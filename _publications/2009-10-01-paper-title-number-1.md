@@ -4,7 +4,7 @@ collection: IEEE/ACM Transactions on Audio, Speech, and Language Processing
 category: accepted
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2024
+date: 2024-11-27
 venue: '32'
 paperurl: 'https://ieeexplore.ieee.org/document/10768979'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
